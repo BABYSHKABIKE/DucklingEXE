@@ -32,3 +32,11 @@ Follow these steps to connect:
 
  Ключ нужно копировать **полностью**  
  Не передавайте ключ другим пользователям  
+
+ ## ⚠️ Important / Важно
+
+Before using Duckling VPN, disable all other VPN applications on your device.  
+Running multiple VPNs at the same time may cause connection issues.
+
+Перед использованием Duckling VPN обязательно отключите все другие VPN на устройстве.  
+Одновременная работа нескольких VPN может привести к проблемам с подключением.
