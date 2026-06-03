@@ -1,42 +1,33 @@
 # Duckling VPN
 
-Smart VPN client for secure and private connection  
-Умный VPN-клиент для безопасного и приватного подключения
+## Download
 
-## ⚡ Quick Setup — Duckling VPN
+Latest test build: **v1.1.25**
 
-Follow these steps to connect:
+- [Duckling-Setup-1.1.25.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.25.exe) - recommended installer
+- [Duckling-1.1.25-gaming-test-unsigned.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-1.1.25-gaming-test-unsigned.zip) - portable tester bundle
+- [SHA256SUMS.txt](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/SHA256SUMS.txt) - checksums
 
-1. 📥 Download the client application  
-2. 📱 Open Telegram and go to the bot: @Ducklingproxybot  
-3. 🔐 Copy your connection key  
-4. 💻 Open the client application  
-5. 📋 Paste the key into the configuration field  
-6. ✅ Connect using the button in the app  
+This is an unsigned manual/test build. Windows SmartScreen may show a warning until the production release is code-signed.
 
-## ⚡ Быстрое подключение — Duckling VPN
+## Quick Start
 
-Чтобы подключить VPN, выполните следующие шаги:
+1. Download and install Duckling.
+2. Open Telegram bot: `@Ducklingproxybot`.
+3. Copy your connection key fully.
+4. Open Duckling and paste the key.
+5. Connect from the app.
 
-1. 📥 Скачайте клиентское приложение  
-2. 📱 Откройте Telegram и перейдите в бота: @Ducklingproxybot  
-3. 🔐 Скопируйте ваш ключ подключения полностью  
-4. 💻 Откройте клиентское приложение  
-5. 📋 Вставьте ключ в поле конфигурации  
-6. ✅ Подключитесь через кнопку в приложении  
+## Скачать
 
-ℹ️ Notes / Примечания
+Актуальная тестовая сборка: **v1.1.25**
 
- The key must be copied **fully**  
- Do not share your key with others  
+- [Duckling-Setup-1.1.25.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.25.exe) - рекомендуемый установщик
+- [Duckling-1.1.25-gaming-test-unsigned.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-1.1.25-gaming-test-unsigned.zip) - portable-сборка для теста
+- [SHA256SUMS.txt](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/SHA256SUMS.txt) - контрольные суммы
 
- Ключ нужно копировать **полностью**  
- Не передавайте ключ другим пользователям  
+Это неподписанная manual/test сборка. Windows SmartScreen может показать предупреждение до production-релиза с code signing.
 
- ## ⚠️ Important / Важно
+## Важно
 
-Before using Duckling VPN, disable all other VPN applications on your device.  
-Running multiple VPNs at the same time may cause connection issues.
-
-Перед использованием Duckling VPN обязательно отключите все другие VPN на устройстве.  
-Одновременная работа нескольких VPN может привести к проблемам с подключением.
+Перед использованием Duckling отключите другие VPN-клиенты на устройстве. Одновременная работа нескольких VPN может мешать подключению.
