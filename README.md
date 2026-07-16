@@ -2,13 +2,13 @@
 
 ## Download
 
-Latest test build: **v1.1.25**
+Latest version: **v1.1.31**
 
-- [Duckling-Setup-1.1.25.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.25.exe) - recommended installer
-- [Duckling-1.1.25-gaming-test-unsigned.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-1.1.25-gaming-test-unsigned.zip) - portable tester bundle
+- [Duckling-Setup-1.1.31.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.31.exe) - recommended installer
+- [Duckling-Portable-1.1.31.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Portable-1.1.31.zip) - portable version
 - [SHA256SUMS.txt](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/SHA256SUMS.txt) - checksums
 
-This is an unsigned manual/test build. Windows SmartScreen may show a warning until the production release is code-signed.
+This build is unsigned. Windows SmartScreen may show a warning until the release is code-signed.
 
 ## Quick Start
 
@@ -20,13 +20,13 @@ This is an unsigned manual/test build. Windows SmartScreen may show a warning un
 
 ## Скачать
 
-Актуальная тестовая сборка: **v1.1.25**
+Актуальная версия: **v1.1.31**
 
-- [Duckling-Setup-1.1.25.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.25.exe) - рекомендуемый установщик
-- [Duckling-1.1.25-gaming-test-unsigned.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-1.1.25-gaming-test-unsigned.zip) - portable-сборка для теста
+- [Duckling-Setup-1.1.31.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.31.exe) - рекомендуемый установщик
+- [Duckling-Portable-1.1.31.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Portable-1.1.31.zip) - portable-версия
 - [SHA256SUMS.txt](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/SHA256SUMS.txt) - контрольные суммы
 
-Это неподписанная manual/test сборка. Windows SmartScreen может показать предупреждение до production-релиза с code signing.
+Эта сборка не подписана цифровым сертификатом. Windows SmartScreen может показать предупреждение.
 
 ## Важно
 
