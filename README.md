@@ -2,17 +2,23 @@
 
 ## Download
 
-Latest version: **v1.1.31**
+**[Download the latest release »](https://github.com/BABYSHKABIKE/DucklingEXE/releases/latest)**
 
-- [Duckling-Setup-1.1.31.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.31.exe) - recommended installer
-- [Duckling-Portable-1.1.31.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Portable-1.1.31.zip) - portable version
-- [SHA256SUMS.txt](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/SHA256SUMS.txt) - checksums
+On the latest release page:
 
-This build is unsigned. Windows SmartScreen may show a warning until the release is code-signed.
+- `Duckling-Setup-<version>.exe` — recommended installer
+- `Duckling-Portable-<version>.zip` — portable version
+- `SHA256SUMS.txt` — checksums
+
+This build is unsigned, so Windows SmartScreen may show a "Windows protected your PC" prompt. This is expected — click **More info**, then **Run anyway**. To verify a download, compare its SHA-256 with the matching line in `SHA256SUMS.txt`:
+
+```powershell
+Get-FileHash .\Duckling-Setup-<version>.exe -Algorithm SHA256
+```
 
 ## Quick Start
 
-1. Download and install Duckling.
+1. Download and install Duckling from the latest release.
 2. Open Telegram bot: `@Ducklingproxybot`.
 3. Copy your connection key fully.
 4. Open Duckling and paste the key.
@@ -20,13 +26,19 @@ This build is unsigned. Windows SmartScreen may show a warning until the release
 
 ## Скачать
 
-Актуальная версия: **v1.1.31**
+**[Скачать последнюю версию »](https://github.com/BABYSHKABIKE/DucklingEXE/releases/latest)**
 
-- [Duckling-Setup-1.1.31.exe](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Setup-1.1.31.exe) - рекомендуемый установщик
-- [Duckling-Portable-1.1.31.zip](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/Duckling-Portable-1.1.31.zip) - portable-версия
-- [SHA256SUMS.txt](https://github.com/BABYSHKABIKE/DucklingEXE/raw/main/SHA256SUMS.txt) - контрольные суммы
+На странице последнего релиза:
 
-Эта сборка не подписана цифровым сертификатом. Windows SmartScreen может показать предупреждение.
+- `Duckling-Setup-<версия>.exe` — рекомендуемый установщик
+- `Duckling-Portable-<версия>.zip` — portable-версия
+- `SHA256SUMS.txt` — контрольные суммы
+
+Сборка не подписана цифровым сертификатом, поэтому Windows SmartScreen может показать предупреждение «Система Windows защитила ваш компьютер». Это ожидаемо — нажмите **Подробнее**, затем **Выполнить в любом случае**. Проверить загрузку можно, сравнив её SHA-256 со строкой в `SHA256SUMS.txt`:
+
+```powershell
+Get-FileHash .\Duckling-Setup-<версия>.exe -Algorithm SHA256
+```
 
 ## Важно
 
